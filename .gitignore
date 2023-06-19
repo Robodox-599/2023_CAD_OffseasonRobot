@@ -1,0 +1,9 @@
+# ignores massive .steps
+release/**
+
+# ignores fea runoff
+*.BD2
+*.CWR
+*.BDF
+*.MFC
+*.SL4
