@@ -4,9 +4,17 @@ release/**
 # ignores fea runoff
 *.BD2
 *.CWR
+*.CT3
 *.BDF
 *.MFC
 *.SL4
+*.MAS
+*.SL3
+*.LCD
+*.GEN
+*.LDS
+*.IDA
+*.STE
 
 # ignores solidworks scrap
 ~$*
